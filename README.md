@@ -1,2 +1,3 @@
 # MiskOmegaMainWebsite
-MiskOmega.com Main Site Page
+MiskOmega | DS Design Studio
+MiskOmega.com
